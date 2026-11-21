@@ -1,0 +1,6 @@
+{
+  "name": "KBR Smart Calculator Pro",
+  "description": "Black-and-gold smart calculator by KBR Tech with scientific math, AI camera math scanner, OCR, voice commands in English, Urdu and Roman Urdu, and step-by-step explanations.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
